@@ -1,0 +1,20 @@
+code for image boxes in tours
+
+
+   <div class="large-6 small-12 columns tourimages">
+      <img src="https://api.fnkr.net/testimg/350x300/139C9B/FFF/?text=img+placeholder">
+      <img src="https://api.fnkr.net/testimg/250x200/A0D166/FFF/?text=img+placeholder">
+      <img src="https://api.fnkr.net/testimg/150x200/D86F53/FFF/?text=img+placeholder">
+      <img src="https://api.fnkr.net/testimg/300x100/CFE8D3/FFF/?text=img+placeholder">
+      <img src="https://api.fnkr.net/testimg/200x100/ED3334/FFF/?text=img+placeholder">
+    </div>
+
+/*Toursection*/
+.tourimages {position: relative;}
+.tourimages >img {display: block; position: absolute; box-shadow: 2px 2px 4px #999;}
+
+.tourimages > img:nth-child(1) {top: 0; left: 0; width: 250px;}
+.tourimages > img:nth-child(2) {top:250px; left: 200px;}
+.tourimages > img:nth-child(3) {top: 8px; left: 120px; width: 200px;}
+.tourimages > img:nth-child(4) {right: 0; top: 200px; width: 200px;}
+.tourimages > img:nth-child(5) {top:288px; left:181px; }
