@@ -23,6 +23,7 @@
         }
         </style>
         <![endif]-->
+        
       </head>
       <body >
         <div class="myrow" >
@@ -35,7 +36,7 @@
                 <nav class="top-bar" data-topbar>
                   <ul class="title-area">
                     <li class="name show-for-small">
-                      <a href="#"><img class="smalllogo" src="img/logo_small.png">Colombo Apartment</a>
+                      <a href="#"><img class="smalllogo" src="img/logo_small.png">Zain Tours and Travels</a>
                     </li>
                     <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
                   </ul>
@@ -44,10 +45,10 @@
                     <ul class="right">
                       <!-- <li class="active"><a href="#">Right Button Active</a></li> -->
                       <li><a href="index.php">Home</a></li>
-                      <li><a href="#">Know about us</a></li>
+                      <li><a href="aboutus.php">Know about us</a></li>
                       <li><a href="tours.php">Tours & Travels </a></li>
                       <li><a href="apartments.php">Luxury Apartments </a></li>
-                      <li><a href="#">Bookings / Enquiry</a></li>
+                      <li><a href="contacts.php">Bookings / Enquiry</a></li>
                       
                       
                     </ul>

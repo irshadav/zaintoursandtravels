@@ -1,0 +1,27 @@
+# .htaccess list
+# zaintravelsandtours
+# comments
+
+
+
+Options -Indexes    
+#[hides files]
+
+# Options +Indexes [showfiles]
+# IndexOptions FancyIndexing [fancyindexing]
+
+# DirectoryIndex mail.php [if main.php is to be the index page]
+
+# IndexIgnore *.txt *.git *.jpg css img js [ignore files or folders]
+
+# AddType application/x-httpd-php .myextension [this will execute .myextension as .php]
+
+# <files humans.txt>  [blocking a file from accessing]
+#	 order allow,deny [no space betwen allow,deny]
+#	 deny from all
+# </files>
+
+# <FilesMatch "\.(txt|ico|)$">
+#	 order allow,deny
+#	 deny from all
+ 

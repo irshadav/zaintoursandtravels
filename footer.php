@@ -25,8 +25,6 @@
 <script src="js/scrollReveal.js"></script>
 <script src="js/jquery.adaptive-backgrounds.min.js"></script>
 
-
-
 <script type="text/javascript">
   (function($) {
 
@@ -66,9 +64,6 @@
 
       })();
 
-      $(document).ready(function(){
-  $('.bxslider').bxSlider();
-});
     </script>
 
     <script src="js/vendor/jquery.js"></script>

@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 <!-- Header -->
 <div class="myrow slidecontainer"  >
-  <div class="row">
+  
     <ul class="example-orbit" data-orbit data-options="animation:fade;
     timer_speed:1000;
     pause_on_hover:true;
@@ -21,7 +21,7 @@
     </li>
 
   </ul>
-</div>
+
 </div>
 <!-- Slidshow -->
 </div>

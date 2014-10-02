@@ -3,7 +3,7 @@
 <!-- Header -->
 <!-- innerimage -->
 
-<div class="myrow apartmentsinner"  >
+<div class="myrow apartment inner"  >
 <div class="row">
 <div class="large-8 columns">
 <span class="innermessage" style="text-align:left;">High standard <strong style="letter-spacing: 2px; ">Luxury Apartments</strong> and <strong style="letter-spacing: 2px; ">Flats</strong> in Sri Lanka</span></div>
