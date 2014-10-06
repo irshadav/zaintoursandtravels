@@ -1748,12 +1748,13 @@ button, .button {
 
 /* Panels */
 .panel {
-  border-style: solid;
-  border-width: 1px;
-  border-color: #d8d8d8;
+  /*border-style: solid;*/
+  /*border-width: 1px;*/
+  /*border-color: #d8d8d8;*/
   margin-bottom: 1.25rem;
   padding: 1.25rem;
-  background: #f2f2f2; }
+  /*background: #f2f2f2;*/
+   }
   .panel > :first-child {
     margin-top: 0; }
   .panel > :last-child {
